@@ -1,4 +1,4 @@
-FROM fedora21-updated
+FROM uhurunet/fedora21
 
 RUN         yum -y update
 RUN         yum install -y cronie wget 
