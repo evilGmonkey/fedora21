@@ -1,4 +1,4 @@
-fedora21-base
+fedora21
 =============
 
 Fedora21 Base
